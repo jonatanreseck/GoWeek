@@ -1,0 +1,2 @@
+# GoWeek
+Seminário sobre omnistack
